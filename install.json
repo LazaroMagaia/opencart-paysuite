@@ -1,0 +1,7 @@
+{
+    "name": "PaySuite Payments",
+    "description": "Pagamentos PaySuite (M-Pesa, e-Mola, cartão) para OpenCart 4.1",
+    "version": "1.0.0",
+    "author": "llmagaia",
+    "link": "https://paysuite.tech"
+}
