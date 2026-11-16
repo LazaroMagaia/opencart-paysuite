@@ -5,7 +5,7 @@ Official PaySuite payment gateway integration for OpenCart 4.x.
 
 ## Overview
 
-PaySuite for OpenCart is a payment gateway extension developed by LLMagaia that enables online stores running OpenCart 4.x to integrate PaySuite as a payment method.
+PaySuite for OpenCart is a payment gateway extension developed by Hypertech that enables online stores running OpenCart 4.x to integrate PaySuite as a payment method.
 
 The extension provides an integration between OpenCart and the PaySuite payment gateway, allowing merchants to accept payments through their online stores.
 
@@ -136,21 +136,21 @@ Never share API keys, passwords or private credentials in public issues.
 
 For commercial inquiries, licensing or technical support, please visit:
 
-https://llmagaia.com
+https://paysuite.co.mz
 
 ## Author
 
-**LLMagaia**
+**HYPERTECH**
 
 Software Development & Technology Solutions
 
-Website: https://llmagaia.com
+Website: https://paysuite.co.mz
 
 ## License
 
 PaySuite for OpenCart is proprietary software.
 
-All rights reserved by LLMagaia.
+All rights reserved by HYPERTECH.
 
 See the [LICENSE](LICENSE) file for details.
 # opencart-paysuite
